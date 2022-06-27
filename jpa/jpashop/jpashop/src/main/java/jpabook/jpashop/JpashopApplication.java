@@ -1,6 +1,5 @@
 package jpabook.jpashop;
 
-import jdk.tools.jaotc.collect.jar.JarSourceProvider;
 import net.bytebuddy.implementation.bind.MethodDelegationBinder;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

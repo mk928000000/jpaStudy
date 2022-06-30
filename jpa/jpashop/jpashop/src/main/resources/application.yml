@@ -1,0 +1,19 @@
+#세팅 방법은 spring io Reference Doc 참조
+spring:
+  datasource:
+    url: jdbc:h2:tcp://localhost/~/jpashop;MVCC=TRUE
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+
+    jbpa:
+      hibernate :
+        ddl-auto: create #애플리캐이션 실행 시점에내가 가지고 있는 테이블(entity)을 다 지우고다시 생성함
+        properties:
+          hibernate:
+            #show_sql: true
+            format_sql: true
+
+logging:
+  level:
+    org.hgibernate.SQL: debug #로그찍기

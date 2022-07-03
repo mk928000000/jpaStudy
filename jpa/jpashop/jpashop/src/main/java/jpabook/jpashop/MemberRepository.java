@@ -1,12 +1,14 @@
 package jpabook.jpashop;
 
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
 //DAO 같은것
 @Repository
+@Transactional //java 기본보다 spring 이 기능이 더 많다
 public class MemberRepository {
 
     //스프링부트가 요 어노테이션이 있으면 application.yml을 읽어서 설정하고 EntityManager를 주입해준다

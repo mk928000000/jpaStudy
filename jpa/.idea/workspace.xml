@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b51ccbf2-e952-455d-9c0c-f0bc900a2003" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jpashop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/java/jpabook/jpashop/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/java/jpabook/jpashop/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/java/jpabook/jpashop/JpashopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/java/jpabook/jpashop/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/java/jpabook/jpashop/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/resources/static/memo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/test/java/jpabook/jpashop/JpashopApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/jpashop/src/test/java/jpabook/jpashop/MemberRepositoryTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CSA3MiysWNFxv23vKo3pITGTdX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jpashop" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b51ccbf2-e952-455d-9c0c-f0bc900a2003" name="Changes" comment="" />
+      <created>1658785413965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658785413965</updated>
+      <workItem from="1658785415306" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

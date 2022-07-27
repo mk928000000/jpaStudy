@@ -28,7 +28,7 @@ dependencies {
 	//화면바뀔때도 build > recompile 만 하면 서버다시 안켜도 됨!
 
 	implementation 'com.github.gavlyukovskiy:p6spy-spring-boot-starter:1.5.6'
-	//쿼리 파라미터 로그 남기기
+	//쿼리 파라미터 로그 남기기. 개발때는 편한데 운영에 배포할때는 성능테스트가 꼭 필요함.
 
 	compileOnly 'org.projectlombok:lombok'
 	runtimeOnly 'com.h2database:h2'

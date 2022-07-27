@@ -9,6 +9,8 @@ import javax.persistence.PersistenceContext;
 @Repository
 public class MemberRepository {
 
+
+
     @PersistenceContext
     private EntityManager em;
 

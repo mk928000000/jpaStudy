@@ -13,7 +13,8 @@ import java.util.List;
 @Getter @Setter
 public class Order {
 
-    @Id @GeneratedValue
+    @Id
+    @GeneratedValue
     @Column(name="order_id")
     private Long id;
 
@@ -22,8 +23,11 @@ public class Order {
     private Member member;
 
 
+    @OneToMany(mappedBy = "order")
     private List<OrderItem> orderItems = new ArrayList<>();
 
+    @OneToOne
+    @JoinColumn(name = "delivery_id")
     private Delivery delivery;
 
     private LocalDateTime orderDate; 
